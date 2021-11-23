@@ -24,7 +24,7 @@ Global="*res://Global.gd"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/gut/plugin.cfg" )
+enabled=PoolStringArray(  )
 
 [input]
 
